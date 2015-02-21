@@ -1,0 +1,18 @@
+Key/Values
+  - Best example is Redis
+  - In practice this looks like caching SQL data tables
+  - Example use case is Amazon top seller lists. 
+        - Rather than ping the SQL database 100,000 times per second
+        - Maybe Amazon is ok with only updating every minute
+        - Redis holds/serves the tables
+
+Big Table 
+  - Best example is Cassandra (not the one from Wayne's World)
+  - Good for a ton of write tasks
+    - Ingest twitter firehose
+    - Record real-time trading data
+    - This provides "linear write scalability"
+    - The vast majority of startups or companies with "Data Science" use Cassandra underneath Hadoop
+    
+
+  
