@@ -8,6 +8,6 @@ Additional resources! (lessons-learned-2/specifying-software-estimation.md)
 Additional resources: http://programmers.stackexchange.com/questions/648/how-to-respond-when-you-are-asked-for-an-estimate 
 
 Developers should avoid this following response when asked for a time estimate:
- ![alt text](http://media.giphy.com/media/6y17pgEsBdN7y/giphy.gif ) 
+ ![alt text](http://screencrush.com/files/2013/04/mean-girls-18.gif) 
 
 
