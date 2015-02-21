@@ -16,12 +16,14 @@ Document
   - Best example is MongoDB
   - Mongo is schemaless and embedable
     - Embedable may not be that good in practice (like hard coding in a model)
+    - [This is their website, btw](www.mongodb.com)
 Graph
 - Best example is Neo4J
 - Great for graph-shaped problems
   - Recommendation engines, ratings systems, social media, etc
   
 Got all that?
+![alt text](http://media.giphy.com/media/6y17pgEsBdN7y/giphy.gif)
 
 
   
