@@ -1,4 +1,4 @@
-+## Key/Values
+## Key/Values
 +  - Best example is Redis
 +  - In practice this looks like caching SQL data tables
 +  - Example use case is Amazon top seller lists. 
@@ -24,8 +24,9 @@
 +  - Best example is Neo4J
 +  - Great for graph-shaped problems
 +    - Recommendation engines, ratings systems, social media, etc
-  
-Got all that?
+   
+-Got all that?
++# Got all that?
 ![alt text](http://media.giphy.com/media/6y17pgEsBdN7y/giphy.gif "Hilarious Mind Blown Gif")
 
 
