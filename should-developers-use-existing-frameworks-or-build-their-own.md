@@ -1,4 +1,4 @@
-+ Topic: Should developers use existing frameworks or build their own?
+Should developers use existing frameworks or build their own?
 --------------------------------------------------------------------------
 + Answer: In a world where you were not constrained by time, budget or scope (i.e. the “Triple Constraint”), it would make sense for capable and talented developers to always write their own code and build their own frameworks. But, that is not the world we live in. As managers, we are usually constrained by all three of the parameters mentioned above, and as such we must manage developers accordingly. This usually means steering developers away from the romantic notion of building their own frameworks, and getting them to accept the practice of using existing frameworks. This practice is sometimes referred to as “software reuse,” or is at least one type of software reuse. But to push them in that direction, you should have a clear idea of why you’re doing so. Below I’ll discuss some of the key benefits of using existing frameworks instead of building one from scratch.
 
