@@ -2,15 +2,15 @@ Key/Values
 ==========
 Redis
 -----
-++In practice this looks like caching SQL data tables
+*In practice this looks like caching SQL data tables
 
-++Example use case is Amazon top seller lists. 
+ *Example use case is Amazon top seller lists. 
 
-+++Rather than ping the SQL database 100,000 times per second
+  *Rather than ping the SQL database 100,000 times per second
 
-+++Maybe Amazon is ok with only updating every minute
+  *Maybe Amazon is ok with only updating every minute
 
-+++Redis holds/serves the tables
+  *Redis holds/serves the tables
 
 Big Table 
 ---------
